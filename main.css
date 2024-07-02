@@ -1,6 +1,12 @@
-.hsize{
-    font-size: 40px;
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
 }
-.psize{
-    font-size: 20px;
+.menu .item{
+    width: 400px;
 }
+.menu .item img{
+    width: 400px;
+    height: 300px;
+ }
